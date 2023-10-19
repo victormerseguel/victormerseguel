@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://victormerseguel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-merseguel-770277161)
 
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
 I'm Victor Merseguel, a front-end developer who found his way into the world of programming. Coming from an arts background, I'm currently transitioning my career. Although I may not have extensive experience, I'm deeply passionate about learning, exploring, and tackling challenges. With a strong sense of self-motivation, I possess the discipline and consistency needed to excel in any role. All I need is an opportunity to prove myself.
 
