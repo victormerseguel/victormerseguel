@@ -12,20 +12,22 @@ Want to know more about me? [Check out my portfolio](https://victormerseguel.com
 <br/>
 <br/>
 
-## 🛠️ Skils
+<h2 align="center">🛠️ Skils</h2>
+<br/>
+<p align="center">
+  <img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/f57ee6b3-869d-4cc6-bd62-d863ad2ec220" />&nbsp;&nbsp;&nbsp;
+  <img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/3f429cbe-4d5a-452b-956a-f4b20b5f6183" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/b6149ea2-c301-4380-8a5e-9d3ed0d2e1af" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/c2851fa5-d96f-4e82-9857-a9cc8f52ded2" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/1b963b85-6c82-4ec2-aa51-11db6025c8cb" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/def44a10-f39c-4bd2-867d-0a366a53acd6" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/8b694cbc-53e7-4e0e-a27f-fb8dbb254128" />
+</p>
+
+<br/>
 <br/>
 
-<img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/f57ee6b3-869d-4cc6-bd62-d863ad2ec220" />&nbsp;&nbsp;&nbsp;
-<img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/3f429cbe-4d5a-452b-956a-f4b20b5f6183" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/b6149ea2-c301-4380-8a5e-9d3ed0d2e1af" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/c2851fa5-d96f-4e82-9857-a9cc8f52ded2" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/1b963b85-6c82-4ec2-aa51-11db6025c8cb" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/def44a10-f39c-4bd2-867d-0a366a53acd6" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="70px" src="https://github.com/victormerseguel/victormerseguel/assets/125660974/8b694cbc-53e7-4e0e-a27f-fb8dbb254128" />
-<br/>
-<br/>
-
-## 🛠️ Projects - Highligths
+<h2 align="center">💾 Projects - Highligths</h2>
 
 <h4 align="center">Videomaker Portfolio</h4>
 <p align="center">
