@@ -5,7 +5,7 @@
 
 <h3 align="center">Hi there 👋</h3>
 
-I'm Victor Merseguel, a front-end developer who found his way into the world of programming. Coming from an arts background, I'm currently transitioning my career. Although I may not have extensive experience, I'm deeply passionate about learning, exploring, and tackling challenges. With a strong sense of self-motivation, I possess the discipline and consistency needed to excel in any role. All I need is an opportunity to prove myself.
+I'm Victor Merseguel, a front-end developer who entered the world of programming. Coming from an artistic background, I have a refined sense of aesthetics, and although I may not have as much experience, I am deeply passionate about learning, exploring, and facing challenges. With a strong sense of self-motivation, I possess the discipline and consistency needed to excel. All I need is an opportunity to show my worth."
 
 Want to know more about me? [Check out my portfolio](https://victormerseguel.com) and let's talk!
 <br/>
