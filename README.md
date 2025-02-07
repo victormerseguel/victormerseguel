@@ -3,11 +3,18 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://victormerseguel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-merseguel-770277161)
 
+<h2 align "center"><strong>Front-End Developer</strong> | React | Next.js | JavaScript | HTML5 | CSS3
+
 <h3 align="center">Hi there 👋</h3>
 
-I'm Victor Merseguel, a front-end developer who entered the world of programming. Coming from an artistic background, I have a refined sense of aesthetics, and although I may not have as much experience, I am deeply passionate about learning, exploring, and facing challenges. With a strong sense of self-motivation, I possess the discipline and consistency needed to excel. All I need is an opportunity to show my worth."
+I’m Victor, a <strong>Front-End Developer</strong> with a passion for creating intuitive, visually appealing, and high-performance web interfaces. With over 3 years of experience, I specialize in React, Next.js, JavaScript, HTML5, and CSS3, focusing on scalable architecture and component-based development.
 
-Want to know more about me? [Check out my portfolio](https://victormerseguel.com) and let's talk!
+My journey into tech began with a background in the arts, where I worked as a set designer and props master. This unique experience gave me a sharp eye for detail and a deep appreciation for blending functionality with aesthetics. Today, I channel that creativity into building user-centric solutions that deliver exceptional experiences.
+
+I’m proactive, always eager to learn, and thrive in collaborative environments. Whether it’s translating business requirements into technical solutions or optimizing performance and usability, I’m committed to delivering quality in every project.
+
+Feel free to explore my work and projects here or [check out my portfolio](https://victormerseguel.com/dev).
+Let’s connect and create something amazing together! 🚀
 <br/>
 <br/>
 <br/>
