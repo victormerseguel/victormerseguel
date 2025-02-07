@@ -1,4 +1,4 @@
-![Capa Github](https://github.com/victormerseguel/victormerseguel/assets/125660974/047fc94b-f821-4ef4-9651-02f09bbb2174)
+![Capa Github](https://private-user-images.githubusercontent.com/125660974/411111450-85369787-565f-4ef6-9dda-f4cfc1100173.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg5NzExNjcsIm5iZiI6MTczODk3MDg2NywicGF0aCI6Ii8xMjU2NjA5NzQvNDExMTExNDUwLTg1MzY5Nzg3LTU2NWYtNGVmNi05ZGRhLWY0Y2ZjMTEwMDE3My5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwN1QyMzI3NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZDk2MTdkYmY1ODkyNDY3MjM5ZTQ3ZjRiYTQ4YTRkZDczNjhlNGJiZDVjYjgyODI3ODdkNWRmNTc2NmI5YjU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6yDQ3uOfzP3k01U5m9ZN-7UDvqKJ6V7DdXPzKGfyfJw)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://victormerseguel.com/dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-merseguel)
@@ -94,12 +94,7 @@ Let’s connect and create something amazing together! 🚀
 <p align="center">Want to see all the projects? <a href="https://victormerseguel.com/dev">Check out my portfolio.</a></p>
 <p align="center">You can also see my resume <a href="https://victormerseguel.com/assets/curriculum_front-end.pdf">here.</a></p>
 <br/>
-<p align="center">
-  <a href="https://victormerseguel.com/dev">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/victor-merseguel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://victormerseguel.com/dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-merseguel)
+
