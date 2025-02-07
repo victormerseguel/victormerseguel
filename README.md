@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://victormerseguel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-merseguel-770277161)
 
-<h2 align "center"><strong>Front-End Developer</strong> | React | Next.js | JavaScript | HTML5 | CSS3
+<h2 align="center"><strong>Front-End Developer</strong> | React | Next.js | JavaScript | HTML5 | CSS3
 
 <h3 align="center">Hi there 👋</h3>
 
