@@ -91,15 +91,15 @@ Let’s connect and create something amazing together! 🚀
 
 ##
 
-<p align="center">Want to see all the projects? <a href="https://victormerseguel.com">Check out my portfolio.</a></p>
+<p align="center">Want to see all the projects? <a href="https://victormerseguel.com/dev">Check out my portfolio.</a></p>
 <p align="center">You can also see my resume <a href="https://victormerseguel.com/assets/curriculum_front-end.pdf">here.</a></p>
 <br/>
 <p align="center">
-  <a href="https://victormerseguel.com">
+  <a href="https://victormerseguel.com/dev">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/victor-merseguel-770277161">
+  <a href="https://www.linkedin.com/in/victor-merseguel">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio">
   </a>
 </p>
