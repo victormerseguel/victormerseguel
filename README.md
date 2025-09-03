@@ -3,19 +3,22 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://victormerseguel.com/dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-merseguel)
 
-<h2 align="center"><strong>Front-End Developer</strong> | React | Next.js | JavaScript | HTML5 | CSS3
+# Front-End Developer | React | Next.js | TypeScript | JavaScript | HTML5 | CSS3
 
-<h3 align="center">Hi there 👋</h3>
+Hi there 👋  
 
-I’m Victor, a <strong>Front-End Developer</strong> with a passion for creating intuitive, visually appealing, and high-performance web interfaces. With over <strong>3 years of experience</strong>, I specialize in <strong>React, Next.js, JavaScript, HTML5, and CSS3</strong>, focusing on scalable architecture and component-based development.
+I’m Victor, a **Front-End Developer** with a background in the arts and over 3 years of professional experience creating **scalable, high-performance, and user-focused web applications**.  
 
-My journey into tech began with a background in the arts, where I worked as a set designer and props master. This unique experience gave me a sharp eye for detail and a deep appreciation for blending functionality with aesthetics. Today, I channel that creativity into building user-centric solutions that deliver exceptional experiences.
+Currently, I work at **Mozantech / IRN (Portugal)**, contributing to the **RE Inovar (PRR)** program, where I build modern and accessible digital services for the public sector. I’ve also collaborated with clients as a **freelancer** and contributed to projects at **Gore Code**, developing reusable components, optimizing performance with **SSR/SSG**, and integrating APIs and internationalization solutions.  
 
-I’m proactive, always eager to learn, and thrive in collaborative environments. Whether it’s translating business requirements into technical solutions or optimizing performance and usability, I’m committed to delivering quality in every project.
+My journey into tech began as a set designer and props master, where I honed my **attention to detail, creativity, and focus on audience experience**. Today, I bring that same vision into technology—blending **design and functionality** to deliver impactful digital experiences.  
 
-Feel free to explore my work and projects here or [check out my portfolio](https://victormerseguel.com/dev).
+I’m proactive, always eager to learn, and thrive in collaborative environments. Whether it’s **translating business requirements into technical solutions** or **enhancing performance and usability**, I’m committed to delivering quality and innovation in every project.  
 
-Let’s connect and create something amazing together! 🚀
+📌 Explore my work here or visit my portfolio: [victormerseguel.com/dev](https://victormerseguel.com/dev)  
+
+Let’s connect and create something amazing together! 🚀  
+
 <br/>
 <br/>
 <br/>
